@@ -14,6 +14,7 @@ Este projeto é composto por duas partes:
 ## 📂 Estrutura
 - `api-node-typescript/` → código da API (porta 3000)
 - `frontend/` → código React (App.tsx renderiza os cards das jornadas)
+- Para acessar os projetos, basta descompatar ambas as pastas que foram upadas para o Github
 - Interfaces `Journey` e `Touchpoint` definem a estrutura dos dados recebidos
 
 ## ⚙️ Pré-requisitos
@@ -74,6 +75,7 @@ This project consists of two parts:
 ## 📂 Structure
 - `api-node-typescript/ → API code (port 3000)
 - `frontend/` → React code (App.tsx renders journey cards)
+- To access the projects, simply unzip both folders that were uploaded to Github.
 - `Journey` and `Touchpoint` interfaces define the structure of the received data
 
 ## ⚙️ Prerequisites
